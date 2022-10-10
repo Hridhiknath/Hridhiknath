@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Hridhiknath.</h2>
+<p align="center">
+  
+  <a href="https://instagram.com/me_nemophilist">Instagram</a>
+</p>
 
 
-**Hridhiknath/Hridhiknath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning more on Observability and better DevOps Practices
+- 💬 Ask me about **Go, Git and Python**
+- 📫 How to reach me: [@me_nemophilist](https://instagram.com/me_nemophilist) on Instagram
+- ⚡ Fun fact: Big Fan of the :zap: emoji
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-------
+
 
